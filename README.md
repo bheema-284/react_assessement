@@ -1,5 +1,5 @@
-# WEATHER - APPLICATION
-You can search any location to see weather condition and map using this application.
+# PRODUCTS DETAILS - APPLICATION
+You can search any product by its name to see Product sorting by price low to high, high to low and rating using this application.
 
 
 ## 1. Teck stack used :
