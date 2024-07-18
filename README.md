@@ -1,4 +1,4 @@
-# PRODUCTS DETAILS - APPLICATION
+# PRODUCTS DETAIL - APPLICATION
 You can search any product by its name to see Product sorting by price low to high, high to low and rating using this application.
 
 
@@ -18,6 +18,6 @@ You can search any product by its name to see Product sorting by price low to hi
 4. The repository folder is cloned
 5. Open in VS Code, and open new terminal
 6. install npm packages
-7. Add command npm run dev
+7. Add command npm run dev or yarn dev
 8. View in browser(http://localhost:3000) and signup to access all features.
 
