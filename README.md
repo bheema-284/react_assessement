@@ -21,3 +21,5 @@ You can search any product by its name to see Product sorting by price low to hi
 7. Add command npm run dev or yarn dev
 8. View in browser(http://localhost:3000) and signup to access all features.
 
+## 3. Deploy Link:
+[react-assessement.vercel.app](https://react-assessement.vercel.app/)
